@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Henken Grotesk ExtraBold";
+    src: url(../fonts/static/HankenGrotesk-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Henken Grotesk Bold";
+    src: url(../fonts/static/HankenGrotesk-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Henken Grotesk Medium";
+    src: url(../fonts/static/HankenGrotesk-Medium.ttf);
+    font-weight: 500;
+}
+
+body {
+    font-size: 1.125;
+    color: hsl(221, 100%, 96%);
+}
+
+.l-lavander {
+    color: hsl(241, 100%, 89%);
+}
+
+.d-g-blue {
+    color: hsl(224, 30%, 27%);
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
